@@ -1,0 +1,21 @@
+#f2f2f2 > background do body
+
+#000 > fundo do header
+
+#00c3cc > cor do título, borda inferior do header, link ativo
+
+#fff > texto do menu
+
+#d5d5d5 > fundo da seção social, fundo do card
+
+#e6005c > cor dos títulos dos boxes
+
+#555 > cor dos textos dos boxes
+
+#00aeb8 > fundo do footer
+
+#ffffff > textos do banner e footer
+
+#FF2D6F > cor principal do card e botão
+
+#aqua > borda dos inputs
